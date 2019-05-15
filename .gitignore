@@ -1,0 +1,4 @@
+**/.idea
+**/.directory
+**/*.env
+node_modules
