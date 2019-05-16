@@ -70,17 +70,14 @@
         const wordList = []
         const categories = []
         if (this.config.category === ALL) {
-          for (let category in words) {
-            if (words.hasOwnProperty(category)) {
-              categories.push(category)
-            }
+          for (let category of Object.keys(words)) {
+            categories.push(category)
           }
         } else {
           categories.push(this.config.category)
         }
         for (let category of categories) {
-          for (let i = 0; i < words[category].length; i++) {
-            let word = words[categories][i];
+          for (let word of words[category]) {
             if (this.config.mode === FR_EN) {
               wordList.push({ left: word[FR], right: word[EN] })
             } else {

@@ -14,7 +14,7 @@ Vue.prototype.$cu = {
     if (width >= 992) {
       cu = 1.5 * width * 0.01
     } else {
-      cu = 2.5 * width * 0.01
+      cu = 2.25 * width * 0.01
     }
     document.documentElement.style.setProperty('--cu', `${cu}px`)
   },

@@ -1,6 +1,434 @@
 {
-  "Basic": [
-    {"fr":  "chat", "en":  "cat"},
-    {"fr":  "chien", "en":  "dog"}
+  "1. Visits": [
+    {
+      "en": "matinee",
+      "fr": "matin\u00e9e"
+    },
+    {
+      "en": "movie theater",
+      "fr": "cin\u00e9ma"
+    },
+    {
+      "en": "cast (n/vb)",
+      "fr": "acteurs/choisir un acteur"
+    },
+    {
+      "en": "director",
+      "fr": "r\u00e9alisateur"
+    },
+    {
+      "en": "plot",
+      "fr": "intrigue"
+    },
+    {
+      "en": "character",
+      "fr": "personnage"
+    },
+    {
+      "en": "theater",
+      "fr": "th\u00e9\u00e2tre"
+    },
+    {
+      "en": "play",
+      "fr": "pi\u00e8ce de th\u00e9\u00e2tre"
+    },
+    {
+      "en": "intermission",
+      "fr": "entracte"
+    },
+    {
+      "en": "showing",
+      "fr": "projection"
+    },
+    {
+      "en": "exhibition",
+      "fr": "exposition"
+    },
+    {
+      "en": "opening",
+      "fr": "ouverture/vernissage"
+    },
+    {
+      "en": "work of art",
+      "fr": "oeuvre d'art"
+    },
+    {
+      "en": "painting",
+      "fr": "tableau"
+    },
+    {
+      "en": "sculptor",
+      "fr": "sculpteur"
+    },
+    {
+      "en": "review (n/vb)",
+      "fr": "critique/faire la critique"
+    },
+    {
+      "en": "critic",
+      "fr": "critique(la personne)"
+    },
+    {
+      "en": "sequel",
+      "fr": "suite"
+    },
+    {
+      "en": "star (vb)",
+      "fr": "\u00eatre \u00e0 l'affiche"
+    },
+    {
+      "en": "shoot (vb)",
+      "fr": "tourner"
+    },
+    {
+      "en": "banned",
+      "fr": "interdit"
+    },
+    {
+      "en": "auction",
+      "fr": "vente aux ench\u00e8res"
+    }
+  ],
+  "2. Other health professionnals": [
+    {
+      "en": "optician",
+      "fr": "opticien"
+    },
+    {
+      "en": "eyesight",
+      "fr": "vue"
+    },
+    {
+      "en": "eyestrain",
+      "fr": "fatigue visuelle"
+    },
+    {
+      "en": "frame",
+      "fr": "monture"
+    },
+    {
+      "en": "lenses",
+      "fr": "verres/lentilles"
+    },
+    {
+      "en": "eyeglasses",
+      "fr": "lunettes"
+    },
+    {
+      "en": "dentist",
+      "fr": "dentiste"
+    },
+    {
+      "en": "drill",
+      "fr": "fraise"
+    },
+    {
+      "en": "cavity",
+      "fr": "carie"
+    },
+    {
+      "en": "tooth decay (ind\u00e9nombrable)",
+      "fr": "carie"
+    },
+    {
+      "en": "dental hygienist",
+      "fr": "assistant dentaire"
+    },
+    {
+      "en": "medical practitioner",
+      "fr": "practicien"
+    },
+    {
+      "en": "physical therapy",
+      "fr": "kin\u00e9sith\u00e9rapie"
+    },
+    {
+      "en": "surgeon",
+      "fr": "chirurgien"
+    },
+    {
+      "en": "operating theater",
+      "fr": "bloc op\u00e9ratoire"
+    },
+    {
+      "en": "emergency services",
+      "fr": "services d'urgence"
+    },
+    {
+      "en": "dietician",
+      "fr": "di\u00e9t\u00e9ticien(ne)"
+    },
+    {
+      "en": "researcher",
+      "fr": "chercheur(-euse)"
+    },
+    {
+      "en": "advise (vb)",
+      "fr": "conseiller"
+    },
+    {
+      "en": "refer to (vb)",
+      "fr": "envoyer vers un sp\u00e9cialiste"
+    },
+    {
+      "en": "emitted",
+      "fr": "\u00e9mis"
+    },
+    {
+      "en": "spectacles",
+      "fr": "lunettes"
+    },
+    {
+      "en": "peak-hour",
+      "fr": "heure de pointe"
+    },
+    {
+      "en": "suit",
+      "fr": "aller \u00e0"
+    },
+    {
+      "en": "upcoming",
+      "fr": "imminent"
+    },
+    {
+      "en": "sound",
+      "fr": "bruit"
+    },
+    {
+      "en": "background",
+      "fr": "de fond"
+    },
+    {
+      "en": "wisdom teeth",
+      "fr": "dents de sagesse"
+    },
+    {
+      "en": "thoroughly",
+      "fr": "minutieusement"
+    }
+  ],
+  "3. At the pharmacy": [
+    {
+      "en": "drugstore",
+      "fr": "pharmacie"
+    },
+    {
+      "en": "Over The Counter (OTC)",
+      "fr": "en vente libre"
+    },
+    {
+      "en": "side effects",
+      "fr": "effets secondaires"
+    },
+    {
+      "en": "leaflet",
+      "fr": "notice"
+    },
+    {
+      "en": "dosage",
+      "fr": "posologie"
+    },
+    {
+      "en": "shelf/shelves",
+      "fr": "\u00e9tag\u00e8re(s)"
+    },
+    {
+      "en": "interaction",
+      "fr": "interaction"
+    },
+    {
+      "en": "breakthrough",
+      "fr": "d\u00e9couverte capitale"
+    },
+    {
+      "en": "empty stomach",
+      "fr": "le ventre vide"
+    },
+    {
+      "en": "warning",
+      "fr": "avertissement"
+    },
+    {
+      "en": "treatment",
+      "fr": "traitement"
+    },
+    {
+      "en": "harmful",
+      "fr": "nuisible"
+    },
+    {
+      "en": "potent",
+      "fr": "puissant"
+    },
+    {
+      "en": "convenient",
+      "fr": "pratique"
+    },
+    {
+      "en": "swollen",
+      "fr": "enfl\u00e9"
+    },
+    {
+      "en": "closely",
+      "fr": "de pr\u00e8s"
+    },
+    {
+      "en": "fill a prescription (vb)",
+      "fr": "aller chercher/d\u00e9livrer une ordonnance"
+    },
+    {
+      "en": "relieve (vb)",
+      "fr": "soulager"
+    },
+    {
+      "en": "treat (vb)",
+      "fr": "soigner"
+    },
+    {
+      "en": "apply(vb)",
+      "fr": "appliquer"
+    },
+    {
+      "en": "local",
+      "fr": "de quartier"
+    },
+    {
+      "en": "pain",
+      "fr": "douleur"
+    },
+    {
+      "en": "avoid",
+      "fr": "\u00e9viter"
+    },
+    {
+      "en": "heartbrun",
+      "fr": "brulures d'estomac"
+    },
+    {
+      "en": "tablet",
+      "fr": "comprim\u00e9"
+    },
+    {
+      "en": "ankle",
+      "fr": "cheville"
+    },
+    {
+      "en": "common cold",
+      "fr": "rhume"
+    },
+    {
+      "en": "elbow",
+      "fr": "coude"
+    }
+  ],
+  "4. Healthy living": [
+    {
+      "en": "stamina",
+      "fr": "endurance"
+    },
+    {
+      "en": "well-being",
+      "fr": "bien-\u00eatre"
+    },
+    {
+      "en": "daily (adj)",
+      "fr": "quotidien"
+    },
+    {
+      "en": "ramp",
+      "fr": "rampe"
+    },
+    {
+      "en": "accommodations",
+      "fr": "am\u00e9nagements/adaptations"
+    },
+    {
+      "en": "junk food",
+      "fr": "malbouffe"
+    },
+    {
+      "en": "balanced diet",
+      "fr": "alimentation \u00e9quilibr\u00e9e"
+    },
+    {
+      "en": "team sport",
+      "fr": "sport d'\u00e9quipe"
+    },
+    {
+      "en": "special diet",
+      "fr": "r\u00e9gime sp\u00e9cifique"
+    },
+    {
+      "en": "absenteeism",
+      "fr": "absent\u00e9isme"
+    },
+    {
+      "en": "health hazard",
+      "fr": "risque pour la sant\u00e9"
+    },
+    {
+      "en": "occupational health doctor",
+      "fr": "m\u00e9decin du travail"
+    },
+    {
+      "en": "counseling",
+      "fr": "psychoth\u00e9rapie"
+    },
+    {
+      "en": "resilient",
+      "fr": "r\u00e9sistance/r\u00e9silient"
+    },
+    {
+      "en": "impaired",
+      "fr": "degrad\u00e9/mal(-entendant/voyant)"
+    },
+    {
+      "en": "healthful",
+      "fr": "sain (bon pour la sant\u00e9)"
+    },
+    {
+      "en": "healthy",
+      "fr": "en bonne sant\u00e9/ bon pour la sant\u00e9"
+    },
+    {
+      "en": "nutritious",
+      "fr": "nutritif"
+    },
+    {
+      "en": "ergonomic",
+      "fr": "ergonomique"
+    },
+    {
+      "en": "keep fit (vb)",
+      "fr": "garder la forme"
+    },
+    {
+      "en": "witness",
+      "fr": "\u00eatre le t\u00e9moin de"
+    },
+    {
+      "en": "robbery",
+      "fr": "cambriolage"
+    },
+    {
+      "en": "undergo",
+      "fr": "subir"
+    },
+    {
+      "en": "wheelchair",
+      "fr": "fauteuil roulant"
+    },
+    {
+      "en": "entitled to",
+      "fr": "qui a droit \u00e0"
+    },
+    {
+      "en": "cope",
+      "fr": "s'en sortir"
+    },
+    {
+      "en": "ointment",
+      "fr": "pommade"
+    }
   ]
 }

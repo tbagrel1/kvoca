@@ -5,7 +5,7 @@
       span(class="navbar-text") Réviser le vocabulaire de Karen facilement !
     b-container(fluid align-v="center")#app-actions
       b-row#app-row(align-h="center")
-        b-col#app-col(xs="12" sm="11" md="10" lg="8" xl="7")
+        b-col#app-col(xs="12" sm="11" md="10" lg="9" xl="8")
           Menu(
             v-if="config === null"
             @go="onGo"
@@ -55,9 +55,6 @@
         window.addEventListener('resize', () => {
           this.windowWidth = window.innerWidth
         })
-      })
-      this.$nextTick(() => {
-        console.log(this.$cu.get())
       })
     }
   }

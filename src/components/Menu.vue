@@ -51,10 +51,8 @@
   export const ALL = '* All *'
 
   const possibleCategories = [ALL]
-  for (let possibleCategory in words) {
-    if (words.hasOwnProperty(possibleCategory)) {
-      possibleCategories.push(possibleCategory)
-    }
+  for (let possibleCategory of Object.keys(words)) {
+    possibleCategories.push(possibleCategory)
   }
 
   export default {
