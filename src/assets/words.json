@@ -1,4 +1,106 @@
 {
+  "1. At the doctor's": [
+    {
+      "en": "physician",
+      "fr": "m\u00e9decin"
+    },
+    {
+      "en": "nurse",
+      "fr": "infirmier(-\u00e8re)"
+    },
+    {
+      "en": "health insurance",
+      "fr": "mutuelle de sant\u00e9"
+    },
+    {
+      "en": "co-pay",
+      "fr": "partie des frais m\u00e9dicaux \u00e0 la charge du patient"
+    },
+    {
+      "en": "medication (ex. under medication)",
+      "fr": "m\u00e9dicaments (ex. sous m\u00e9dicaments)"
+    },
+    {
+      "en": "tablet",
+      "fr": "comprim\u00e9"
+    },
+    {
+      "en": "prescription (ex. write a prescription)",
+      "fr": "ordonnance (ex. remplir une ordonnance)"
+    },
+    {
+      "en": "outbreak",
+      "fr": "\u00e9pid\u00e9mie"
+    },
+    {
+      "en": "appointment (ex. make an appointment)",
+      "fr": "rendez-vous (ex. avoir un rendez-vous)"
+    },
+    {
+      "en": "checkup",
+      "fr": "bilan de sant\u00e9"
+    },
+    {
+      "en": "illness",
+      "fr": "maladie"
+    },
+    {
+      "en": "injury",
+      "fr": "blessure"
+    },
+    {
+      "en": "headache",
+      "fr": "mal de t\u00eate"
+    },
+    {
+      "en": "blood pressure",
+      "fr": "pression art\u00e9rielle"
+    },
+    {
+      "en": "practice",
+      "fr": "cabinet"
+    },
+    {
+      "en": "sibling",
+      "fr": "fr\u00e8re ou soeur"
+    },
+    {
+      "en": "sick leave",
+      "fr": "arr\u00eat maladie"
+    },
+    {
+      "en": "ward (ex. maternity ward)",
+      "fr": "salle/service d'un h\u00f4pital (ex. service maternit\u00e9)"
+    },
+    {
+      "en": "(to) consult",
+      "fr": "consulter"
+    },
+    {
+      "en": "(to, a) relaspe (ex. en rechute)",
+      "fr": "rechuter/rechute (ex. on a relapse)"
+    },
+    {
+      "en": "weigh",
+      "fr": "peser"
+    },
+    {
+      "en": "benign",
+      "fr": "b\u00e9nin"
+    },
+    {
+      "en": "visiting hours",
+      "fr": "heures de visite"
+    },
+    {
+      "en": "flu",
+      "fr": "grippe"
+    },
+    {
+      "en": "syrup",
+      "fr": "sirop"
+    }
+  ],
   "1. Visits": [
     {
       "en": "matinee",
@@ -87,6 +189,136 @@
     {
       "en": "auction",
       "fr": "vente aux ench\u00e8res"
+    }
+  ],
+  "2. Air travel": [
+    {
+      "en": "airline",
+      "fr": "compagnie a\u00e9rienne"
+    },
+    {
+      "en": "boarding pass",
+      "fr": "carte d'embarquement"
+    },
+    {
+      "en": "ID",
+      "fr": "pi\u00e8ce d'identit\u00e9"
+    },
+    {
+      "en": "chief",
+      "fr": "chef"
+    },
+    {
+      "en": "customs",
+      "fr": "douane"
+    },
+    {
+      "en": "gate",
+      "fr": "porte d'embarquement"
+    },
+    {
+      "en": "carry-on",
+      "fr": "bagage \u00e0 main"
+    },
+    {
+      "en": "flight attendant",
+      "fr": "h\u00f4tesse de l'air/steward"
+    },
+    {
+      "en": "overhead bin",
+      "fr": "compartiment sup\u00e9rieur"
+    },
+    {
+      "en": "aisle",
+      "fr": "couloir"
+    },
+    {
+      "en": "tray table",
+      "fr": "tablette (au niveau des dossiers)"
+    },
+    {
+      "en": "runway",
+      "fr": "piste"
+    },
+    {
+      "en": "delayed",
+      "fr": "retard\u00e9"
+    },
+    {
+      "en": "on time",
+      "fr": "\u00e0 l'heure"
+    },
+    {
+      "en": "cancelled",
+      "fr": "annul\u00e9"
+    },
+    {
+      "en": "baggage claim",
+      "fr": "arriv\u00e9e des bagages"
+    },
+    {
+      "en": "(to) pick up",
+      "fr": "passer prendre"
+    },
+    {
+      "en": "(to) drop off",
+      "fr": "laisser tomber"
+    },
+    {
+      "en": "(to) fasten",
+      "fr": "attacher"
+    },
+    {
+      "en": "(to) unfasten",
+      "fr": "d\u00e9tacher"
+    },
+    {
+      "en": "(to) remove/take off",
+      "fr": "retirer"
+    },
+    {
+      "en": "(to) exceed",
+      "fr": "d\u00e9passer"
+    },
+    {
+      "en": "(to) take off/(a) takeoff",
+      "fr": "d\u00e9coller/d\u00e9collage"
+    },
+    {
+      "en": "flight",
+      "fr": "vol"
+    },
+    {
+      "en": "on time",
+      "fr": "\u00e0 l'heure"
+    },
+    {
+      "en": "seat belt",
+      "fr": "ceinture de s\u00e9curit\u00e9"
+    },
+    {
+      "en": "(to) board",
+      "fr": "embarquer"
+    },
+    {
+      "en": "suitcase",
+      "fr": "valise"
+    },
+    {
+      "en": "pleasant",
+      "fr": "agr\u00e9able"
+    },
+    {
+      "en": "(to) proceed to",
+      "fr": "se rendre \u00e0"
+    },
+    {
+      "en": "(to) stow",
+      "fr": "ranger"
+    },
+    {
+      "en": "landing",
+      "fr": "atterissage"
     }
   ],
   "2. Other health professionnals": [
@@ -321,6 +553,376 @@
       "fr": "coude"
     }
   ],
+  "3. Hotels": [
+    {
+      "en": "guest",
+      "fr": "client"
+    },
+    {
+      "en": "lobby",
+      "fr": "hall d'entr\u00e9e"
+    },
+    {
+      "en": "front desk",
+      "fr": "r\u00e9ception"
+    },
+    {
+      "en": "(to) rate",
+      "fr": "tafif/\u00e9valuer"
+    },
+    {
+      "en": "included",
+      "fr": "compris dedans"
+    },
+    {
+      "en": "porter",
+      "fr": "bagagiste"
+    },
+    {
+      "en": "elevator",
+      "fr": "ascenseur"
+    },
+    {
+      "en": "key card",
+      "fr": "cl\u00e9 magn\u00e9tique"
+    },
+    {
+      "en": "room service",
+      "fr": "service de chambre"
+    },
+    {
+      "en": "housekeeper",
+      "fr": "femme de chambre/gouvernante"
+    },
+    {
+      "en": "towel",
+      "fr": "serviette"
+    },
+    {
+      "en": "blanket",
+      "fr": "couverture"
+    },
+    {
+      "en": "pillow",
+      "fr": "oreiller"
+    },
+    {
+      "en": "amenities",
+      "fr": "am\u00e9nagements/\u00e9quipements"
+    },
+    {
+      "en": "convenient",
+      "fr": "bien situ\u00e9/pratique"
+    },
+    {
+      "en": "view",
+      "fr": "vue"
+    },
+    {
+      "en": "shuttle",
+      "fr": "navette"
+    },
+    {
+      "en": "(to) book",
+      "fr": "r\u00e9server"
+    },
+    {
+      "en": "(to) vacate",
+      "fr": "quitter l'h\u00f4tel"
+    },
+    {
+      "en": "(to) check out",
+      "fr": "r\u00e9gler sa note"
+    },
+    {
+      "en": "(to) check in/(a) check-in",
+      "fr": "s'enregistrer \u00e0 l'accueil/enregistrement"
+    },
+    {
+      "en": "luggage",
+      "fr": "bagages"
+    },
+    {
+      "en": "locked",
+      "fr": "ferm\u00e9 \u00e0 cl\u00e9"
+    },
+    {
+      "en": "location",
+      "fr": "emplacement"
+    },
+    {
+      "en": "at the latest",
+      "fr": "au plus tard"
+    },
+    {
+      "en": "(to) make a reservation",
+      "fr": "faire une r\u00e9servation"
+    },
+    {
+      "en": "I can manage it",
+      "fr": "je peux m'en occuper/\u00eatre capable de le faire"
+    }
+  ],
+  "3. Vacations": [
+    {
+      "en": "sunscreen",
+      "fr": "cr\u00e8me solaire"
+    },
+    {
+      "en": "couch sufing",
+      "fr": "dormir chez quelqu'un sur son canap\u00e9"
+    },
+    {
+      "en": "beach towel",
+      "fr": "serviette de plage"
+    },
+    {
+      "en": "resort",
+      "fr": "station (baln\u00e9aire/de ski)"
+    },
+    {
+      "en": "sunglasses",
+      "fr": "lunettes de soleil"
+    },
+    {
+      "en": "travel agent",
+      "fr": "agent de voyage"
+    },
+    {
+      "en": "itinerary",
+      "fr": "itin\u00e9raire"
+    },
+    {
+      "en": "sightseeing",
+      "fr": "tourisme"
+    },
+    {
+      "en": "cruise",
+      "fr": "croisi\u00e8re"
+    },
+    {
+      "en": "beach",
+      "fr": "plage"
+    },
+    {
+      "en": "suitcase",
+      "fr": "valise"
+    },
+    {
+      "en": "accomodation",
+      "fr": "logment"
+    },
+    {
+      "en": "vacationer",
+      "fr": "vacancier"
+    },
+    {
+      "en": "local",
+      "fr": "personne du coin/habitant"
+    },
+    {
+      "en": "camping-trip",
+      "fr": "vacances sous la tente"
+    },
+    {
+      "en": "all-inclusive",
+      "fr": "tout compris"
+    },
+    {
+      "en": "(to) pack",
+      "fr": "faire les bagages"
+    },
+    {
+      "en": "(to) sunbathe",
+      "fr": "bronzer"
+    },
+    {
+      "en": "(to) get away",
+      "fr": "s'\u00e9chapper"
+    },
+    {
+      "en": "(to) cater to",
+      "fr": "s'adresser \u00e0/pouvoir aux besoins de"
+    },
+    {
+      "en": "I can't wait",
+      "fr": "j'ai h\u00e2te"
+    },
+    {
+      "en": "all ready",
+      "fr": "tout pr\u00eat"
+    },
+    {
+      "en": "affordable",
+      "fr": "abordable"
+    },
+    {
+      "en": "exclusive",
+      "fr": "s\u00e9lect/hupp\u00e9"
+    },
+    {
+      "en": "trend",
+      "fr": "tendance"
+    },
+    {
+      "en": "stranger",
+      "fr": "inconnu"
+    },
+    {
+      "en": "seaside",
+      "fr": "bord de mer"
+    },
+    {
+      "en": "look around/look over",
+      "fr": "explorer/inspecter"
+    },
+    {
+      "en": "see off",
+      "fr": "dire au revoir"
+    },
+    {
+      "en": "go out",
+      "fr": "sortir"
+    },
+    {
+      "en": "Djedje",
+      "fr": "chef kebabier"
+    },
+    {
+      "en": "pack out",
+      "fr": "remballer"
+    },
+    {
+      "en": "set up",
+      "fr": "se mettre en route"
+    },
+    {
+      "en": "a suntan",
+      "fr": "bronzage"
+    }
+  ],
+  "4. Car rental": [
+    {
+      "en": "rental agency",
+      "fr": "agence de location"
+    },
+    {
+      "en": "fleet of vehicules",
+      "fr": "parc de v\u00e9hicules"
+    },
+    {
+      "en": "driver's licence",
+      "fr": "permis de conduire"
+    },
+    {
+      "en": "policy",
+      "fr": "politique/police d'assurance"
+    },
+    {
+      "en": "automatic",
+      "fr": "automatique"
+    },
+    {
+      "en": "four-wheel drive",
+      "fr": "voiture 4x4"
+    },
+    {
+      "en": "fuel",
+      "fr": "carburant"
+    },
+    {
+      "en": "tank",
+      "fr": "r\u00e9servoir"
+    },
+    {
+      "en": "windshield",
+      "fr": "pare-brise"
+    },
+    {
+      "en": "steering wheel",
+      "fr": "volant"
+    },
+    {
+      "en": "dashboard",
+      "fr": "tableau de bord"
+    },
+    {
+      "en": "trunk",
+      "fr": "coffre"
+    },
+    {
+      "en": "tire",
+      "fr": "pneu"
+    },
+    {
+      "en": "car seat",
+      "fr": "si\u00e8ge auto"
+    },
+    {
+      "en": "economy",
+      "fr": "\u00e9conomique"
+    },
+    {
+      "en": "(to, a) brake",
+      "fr": "freiner/frein"
+    },
+    {
+      "en": "(to) reverse",
+      "fr": "faire marche arri\u00e8re"
+    },
+    {
+      "en": "(to) fill on",
+      "fr": "remplir/faire le plein"
+    },
+    {
+      "en": "(to) break down",
+      "fr": "tomber en panne"
+    },
+    {
+      "en": "(to) winterize",
+      "fr": "se pr\u00e9parer pour l'hiver"
+    },
+    {
+      "en": "abroad",
+      "fr": "\u00e0 l'\u00e9tranger"
+    },
+    {
+      "en": "leather",
+      "fr": "cuir"
+    },
+    {
+      "en": "sspare",
+      "fr": "de recharge"
+    },
+    {
+      "en": "fall",
+      "fr": "automne"
+    },
+    {
+      "en": "unbelievable",
+      "fr": "incroyable"
+    },
+    {
+      "en": "flashing",
+      "fr": "qui clignote"
+    },
+    {
+      "en": "windshield wipers",
+      "fr": "essuie-glaces"
+    },
+    {
+      "en": "flat-rate",
+      "fr": "forfait"
+    },
+    {
+      "en": "(to) pull over",
+      "fr": "se ranger en voiture"
+    },
+    {
+      "en": "(to) pull out",
+      "fr": "d\u00e9boiter en voiture"
+    }
+  ],
   "4. Healthy living": [
     {
       "en": "stamina",
@@ -429,6 +1031,256 @@
     {
       "en": "ointment",
       "fr": "pommade"
+    }
+  ],
+  "Vocabulary I, II, III, IV": [
+    {
+      "en": "(to) drive on",
+      "fr": "avancer"
+    },
+    {
+      "en": "(to) fold",
+      "fr": "plier"
+    },
+    {
+      "en": "(to) tear",
+      "fr": "d\u00e9chirer"
+    },
+    {
+      "en": "(to) roll up one's sleeves",
+      "fr": "retrousser ses manches"
+    },
+    {
+      "en": "(to) mow the lawn",
+      "fr": "tondre la pelouse"
+    },
+    {
+      "en": "(to) bend",
+      "fr": "se pencher"
+    },
+    {
+      "en": "(to) be diverted",
+      "fr": "\u00eatre d\u00e9vi\u00e9"
+    },
+    {
+      "en": "(to) pump up/inflate a tire",
+      "fr": "gonfler un pneu"
+    },
+    {
+      "en": "(to) raise one's hand",
+      "fr": "lever la main"
+    },
+    {
+      "en": "(to) lean against",
+      "fr": "s'appuyer contre"
+    },
+    {
+      "en": "road works",
+      "fr": "des travaux"
+    },
+    {
+      "en": "leaflet/brochure/flyer",
+      "fr": "des d\u00e9pliants"
+    },
+    {
+      "en": "(to) hand out",
+      "fr": "distribuer"
+    },
+    {
+      "en": "(to) reach for",
+      "fr": "tendre le bras pour attraper quelque chose"
+    },
+    {
+      "en": "(to) supply/provide/stock the shelves",
+      "fr": "approvisionner les rayons d'un magasin"
+    },
+    {
+      "en": "(to) wrap",
+      "fr": "emballer"
+    },
+    {
+      "en": "(to) line up/queue/stand in line",
+      "fr": "faire la queue (US)"
+    },
+    {
+      "en": "(to) gather",
+      "fr": "se rassembler/rassembler"
+    },
+    {
+      "en": "(to) overtake",
+      "fr": "doubler une voiture"
+    },
+    {
+      "en": "a platform",
+      "fr": "un quai d'une gare"
+    },
+    {
+      "en": "a helmet",
+      "fr": "un casque"
+    },
+    {
+      "en": "(to) resign",
+      "fr": "d\u00e9missionner"
+    },
+    {
+      "en": "(to) put forward",
+      "fr": "proposer/sugg\u00e9rer"
+    },
+    {
+      "en": "(to) carry",
+      "fr": "avoir en stock"
+    },
+    {
+      "en": "(to) recover/retrieve/get something back",
+      "fr": "r\u00e9cup\u00e9rer quelque chose"
+    },
+    {
+      "en": "(to) get back to somebody",
+      "fr": "revenir vers quelqu'un/recontacter"
+    },
+    {
+      "en": "(to) be fired/dismissed",
+      "fr": "\u00eatre licenci\u00e9"
+    },
+    {
+      "en": "(to) be laid off/be made redondant",
+      "fr": "\u00eatre licenci\u00e9 pour des raisons \u00e9conomique"
+    },
+    {
+      "en": "(to) come accross/run into somebody",
+      "fr": "rencontrer quelqu'un par hasard"
+    },
+    {
+      "en": "(to) get along with somebody",
+      "fr": "bien s'entendre avec quelqu'un"
+    },
+    {
+      "en": "(to) handle/bear/put up with somebody",
+      "fr": "supporter quelqu'un"
+    },
+    {
+      "en": "(to) owe",
+      "fr": "devoir de l'argent"
+    },
+    {
+      "en": "(to) check something out",
+      "fr": "v\u00e9rifier quelquechose"
+    },
+    {
+      "en": "a base",
+      "fr": "un bail"
+    },
+    {
+      "en": "a drawer",
+      "fr": "un tiroir"
+    },
+    {
+      "en": "the line is busy",
+      "fr": "la ligne t\u00e9l\u00e9phonique est occup\u00e9e"
+    },
+    {
+      "en": "I have mixed feelings about it",
+      "fr": "je suis partag\u00e9 sur ce sujet"
+    },
+    {
+      "en": "let's move to the next item/point",
+      "fr": "passons au point suivant"
+    },
+    {
+      "en": "give someone a hand",
+      "fr": "donner un coup de main"
+    },
+    {
+      "en": "hold the line/hold on",
+      "fr": "ne quittez pas la conversation t\u00e9l\u00e9phonique"
+    },
+    {
+      "en": "a copy/specimen/issue",
+      "fr": "un num\u00e9ro/exemplaire"
+    },
+    {
+      "en": "an issue",
+      "fr": "un probl\u00e8me/litige"
+    },
+    {
+      "en": "the term/due date/deadline/timescale",
+      "fr": "l'\u00e9ch\u00e9ance"
+    },
+    {
+      "en": "(to) deliver",
+      "fr": "livrer"
+    },
+    {
+      "en": "(to) cancel",
+      "fr": "annuler"
+    },
+    {
+      "en": "(to) order/place an order",
+      "fr": "commander"
+    },
+    {
+      "en": "exp\u00e9dier, (to) dispatch",
+      "fr": "envoyer"
+    },
+    {
+      "en": "(to) miss",
+      "fr": "rater un \u00e9v\u00e8nement"
+    },
+    {
+      "en": "(to) be stuck",
+      "fr": "\u00eatre coinc\u00e9"
+    },
+    {
+      "en": "(to) be held up",
+      "fr": "\u00eatre retenu"
+    },
+    {
+      "en": "(to) turn up/show up",
+      "fr": "venir/se pointer"
+    },
+    {
+      "en": "(to) purchase",
+      "fr": "acheter"
+    },
+    {
+      "en": "(to) be skilled",
+      "fr": "\u00eatre qualifi\u00e9"
+    },
+    {
+      "en": "(to) re-schedule",
+      "fr": "re-planifier"
+    },
+    {
+      "en": "(to) attend something",
+      "fr": "assister \u00e0 quelquechose"
+    },
+    {
+      "en": "(to) downsize",
+      "fr": "r\u00e9duire les effectifs"
+    },
+    {
+      "en": "jewelry",
+      "fr": "des bijoux"
+    },
+    {
+      "en": "a scarf",
+      "fr": "une \u00e9charpe"
+    },
+    {
+      "en": "a stationery store",
+      "fr": "une papeterie"
+    },
+    {
+      "en": "a pastry",
+      "fr": "une p\u00e2tisserie"
+    },
+    {
+      "en": "poultry",
+      "fr": "la volaille"
+    },
+    {
+      "en": "dairy products",
+      "fr": "les produits laitiers"
     }
   ]
 }
